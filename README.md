@@ -53,6 +53,12 @@ This project focuses on analyzing global terrorism data to *identify trends, pat
 
 ---
 
+
+## 📽️ Demo Video
+
+▶️ [Watch the project demo on Google Drive](https://drive.google.com/file/d/VIDEO_ID/view)
+---
+
 ## 🚀 Future Prediction Demo
 
 We tested a real-world prediction scenario:
