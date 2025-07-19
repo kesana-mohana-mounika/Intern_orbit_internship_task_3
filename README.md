@@ -56,7 +56,7 @@ This project focuses on analyzing global terrorism data to *identify trends, pat
 
 ## 📽️ Demo Video
 
-▶️ [Watch the project demo on Google Drive](https://drive.google.com/file/d/VIDEO_ID/view)
+▶️ [Watch the project demo on Google Drive](https://www.linkedin.com/posts/kesana-mohana-mounika-548114344_machinelearning-terrorismanalysis-internorbit-activity-7352286545032216576-7Aur?utm_source=share&utm_medium=member_android&rcm=ACoAAFYoewgBCwKr-tM3UK4tbA8AS98p6O7bcOE)
 ---
 
 ## 🚀 Future Prediction Demo
